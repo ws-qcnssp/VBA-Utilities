@@ -19,5 +19,5 @@ Should result in value ca. 5.83673149492073.
 Detailed description for this approximation can be found [here](https://mathoverflow.net/questions/57819/best-approximation-to-the-lambertwx-or-explambertwx).
 
 ### Limitations
-
-This code is limited to *r* being integer with max value 80. For greater values Excel throws ARG error.
+ - Using this function one can calculate approximation of Lambert W function only for real numbers.
+ - This code is limited to *r* being integer with max value 80. For greater values Excel throws ARG error.
