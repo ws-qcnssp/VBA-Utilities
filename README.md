@@ -12,7 +12,7 @@ In order to calculate approximation to Lambert W fuction, in the worksheet write
 
 Example input to Excel cell:
 ```
-=LAMBERTW(2000,80,5)
+=LAMBERTW(2000;80;5)
 ```
 Should result in value ca. 5.83673149492073.
 
