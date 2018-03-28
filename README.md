@@ -16,7 +16,7 @@ Example input to Excel cell:
 ```
 Should result in value ca. 5.83673149492073.
 
-Detailed description for such approximating can be found [here](https://mathoverflow.net/questions/57819/best-approximation-to-the-lambertwx-or-explambertwx).
+Detailed description for this approximation can be found [here](https://mathoverflow.net/questions/57819/best-approximation-to-the-lambertwx-or-explambertwx).
 
 ### Limitations
 
