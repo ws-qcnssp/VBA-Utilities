@@ -5,7 +5,7 @@
 In order to import function to Excel worksheet, Press **Alt+F11** to open the Visual Basic Editor (on the Mac, press **FN+ALT+F11**), and then click **File > Import File** and choose the file [LambertWFunction.bas](./LambertWFunction.bas).
 
 ### Usage
-In order to calculate approximation to Lambert W fuction, in the worksheet write function LAMBERTW, which takes three arguments:
+In order to calculate approximation to Lambert W fuction, in the worksheet write function LAMBERTW(x, r, n), which takes three arguments:
  - *x*, which is the main input value to the function
  - *r*, which is related to approximation of LAMPHI function (so indirectly, also the value of W(x))
  - *n*, which is related to approximation of LAMBERTW
