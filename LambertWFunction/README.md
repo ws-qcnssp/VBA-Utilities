@@ -3,7 +3,7 @@
 
 ### Usage
 In order to calculate approximation to Lambert W fuction, in the worksheet write function LAMBERTW(x, r, n), which takes three arguments:
- - *x*, which is the main input value to the function
+ - *x*, which is the main input variable to the function
  - *r*, which is related to approximation of LAMPHI function (so indirectly, also the value of W(x))
  - *n*, which is related to approximation of LAMBERTW
 
